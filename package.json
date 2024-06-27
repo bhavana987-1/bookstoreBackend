@@ -1,0 +1,33 @@
+{
+  "name": "book_boulevard",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "https://github.com/bhavana987-1/Book_Boulevard.git",
+    "start": " nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavana987-1/Book_Boulevard.git"
+  },
+  "keywords": [
+    "author",
+    "bhavana"
+  ],
+  "author": "Bhavana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavana987-1/Book_Boulevard/issues"
+  },
+  "homepage": "https://github.com/bhavana987-1/Book_Boulevard#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
